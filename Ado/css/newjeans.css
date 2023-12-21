@@ -1,0 +1,107 @@
+body{
+    background-color: #111111;
+}
+.nav{
+    font-size: 20px;
+    border-radius: 40px;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between 100px;
+    gap: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    background-color:#333333;
+    margin-bottom: 50px;
+    padding: 10px;
+  }
+.blanco{
+    margin-left: 10px;
+    color: white;
+}
+.newjeans {
+    margin-left: 30px;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    width: 200px;
+    height: 200px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+    float: left;
+    margin-bottom: 50px;
+    margin-right: 10px;
+  }
+  .tamaño{
+    width: 190px;
+  }
+  .horarios{
+    color: white;
+    float: left;
+}
+.newjeansmain{
+    border-radius: 30px;
+    padding: 20px;
+    color: white;
+    float: left;
+    width: 1290px;
+    height: 1000px;
+    opacity: 0.8;
+    background-color: #333333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 100px;
+  }
+  .cajaizq{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 30px;
+    background-color: #333333;
+    width: 310px;
+    height: 610px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    border-radius: 20px;
+  }
+  .songimgs{
+    float: left;
+    width: 70px;
+    height: 70px;
+    padding: 15px;
+  }
+  .songtxt{
+    float: left;
+    padding: 17px;
+    text-align: center ;
+  }
+  .songtxtlarge{
+    font-size: 19px;
+    float: left;
+    padding: 20px;
+  }
+  .fot{
+    font-size: 15px;
+    opacity: 0.8;
+    margin-top: 1525px;
+    color: white;
+  }
+  .hub{
+    width: 77%;
+    text-align: right;
+    float: right;
+  }
+  .Noticias{
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+    margin-left: 290px;
+  }
+  .section1{
+    color: white;
+
+  }
