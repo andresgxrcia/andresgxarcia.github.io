@@ -23,6 +23,7 @@ body{
     color: white;
 }
 .ado {
+    position: absolute;
     margin-left: 30px;
     border-top-left-radius: 50% 50%;
     border-top-right-radius: 50% 50%;
